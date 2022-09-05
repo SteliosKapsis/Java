@@ -1,0 +1,10 @@
+Fight Club,1999,139,Drama,K-16,Edwart Norton,Chuck Palahniuk,David Fincher
+Star Wars : The Empire Strikes Back,1980,124,Fantasy,K-8,Mark Hamill,George Lucas,Irvin Kershner
+The Matrix,1999,136,Sci-Fi,K-8,Keanu,Reeves,Lana Wachowski,Lilly Wachowski
+Seven Samurai,1954,307,Action,K-8,Toshiro Mifune,Akira Kurosawa,Akira Kurosawa
+The Terminator 2 : Judgement Day,1991,137,Sci-Fi,R,Linda Hamilton,James Cameron,James Cameron
+Avengers : Endgame,2019,182,Action,K-12,Robert Downey Jr,Christopher Markus,Anthony Russo
+District 9,2009,112,Thriller,R,Sharlto Copley,Neill Blomkamp,Neill Blomkamp
+The Good The Bad and The Ugly,1966,161,Western,K-16,Clint Eastwood,Luciano Vincenzoni,Sergio Leone
+Doctor Strange,2016,115,Action,K-12,Benedict Cumberbatch,Jon Spaihts,Scott DerricksonThe Exorcist,1973,162,Horror,A-18,Ellen Burstyn,William Peter Blatty,William Friedkin
+Jaws,1975,164,Thriller,K-8,Roy Scheider,Peter Benchley,Steven Spielberg
