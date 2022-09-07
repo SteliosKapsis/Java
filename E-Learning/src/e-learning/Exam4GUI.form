@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.ButtonGroup" name="E4buttonGroup1">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="&#x395;4buttonGroup2">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="&#x395;4buttonGroup3">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="&#x395;4buttonGroup4">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="&#x395;4buttonGroup5">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="0" pref="793" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="0" pref="498" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel1">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="E4Btn1n1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="E4Btn1n2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="E4Btn1n3" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="E4Btn1n4" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="jLabel1" min="-2" pref="496" max="-2" attributes="0"/>
+                                  <Component id="jLabel3" alignment="0" min="-2" pref="577" max="-2" attributes="0"/>
+                                  <Component id="jLabel4" alignment="0" min="-2" pref="491" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                          <Component id="jLabel5" alignment="0" max="32767" attributes="0"/>
+                                          <Group type="102" attributes="0">
+                                              <Component id="E4Btn2n1" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Component id="E4Btn2n2" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Component id="E4Btn2n3" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="E4Btn2n4" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="jLabel2" alignment="0" min="-2" pref="514" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="146" max="-2" attributes="0"/>
+                              <Component id="E4Sosto1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="E4Lathos1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="147" max="-2" attributes="0"/>
+                              <Component id="E4Sosto2" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="E4Lathos2" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="150" max="-2" attributes="0"/>
+                              <Component id="E4Sosto3" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="E4Lathos3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="321" max="-2" attributes="0"/>
+                              <Component id="Submit4Btn" min="-2" pref="91" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jLabel6" min="-2" pref="575" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jLabel7" min="-2" pref="770" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="196" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="E4Btn1n1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="E4Btn1n2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="E4Btn1n3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="E4Btn1n4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="E4Btn2n1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="E4Btn2n2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="E4Btn2n3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="E4Btn2n4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="E4Sosto1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="E4Lathos1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="E4Sosto2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="E4Lathos2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="E4Sosto3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="E4Lathos3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="47" max="32767" attributes="0"/>
+                      <Component id="Submit4Btn" min="-2" pref="34" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="51" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Dialog" size="14" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&#x391;) &#x395;&#x3c1;&#x3c9;&#x3c4;&#x3ae;&#x3c3;&#x3b5;&#x3b9;&#x3c2; &#x3c0;&#x3bf;&#x3bb;&#x3bb;&#x3b1;&#x3c0;&#x3bb;&#x3ae;&#x3c2; &#x3b5;&#x3c0;&#x3b9;&#x3bb;&#x3bf;&#x3b3;&#x3ae;&#x3c2;:"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel2">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="1) &#x39f;&#x3b9; &#x3ba;&#x3c5;&#x3c1;&#x3b9;&#x3cc;&#x3c4;&#x3b5;&#x3c1;&#x3bf;&#x3b9; &#x3c0;&#x3b1;&#x3c1;&#x3ac;&#x3b3;&#x3bf;&#x3bd;&#x3c4;&#x3b5;&#x3c2; &#x3c0;&#x3bf;&#x3c5; &#x3b5;&#x3c0;&#x3b7;&#x3c1;&#x3b5;&#x3ac;&#x3b6;&#x3bf;&#x3c5;&#x3bd; &#x3c4;&#x3b7; &#x3b3;&#x3bf;&#x3bd;&#x3b9;&#x3bc;&#x3cc;&#x3c4;&#x3b7;&#x3c4;&#x3b1; &#x3c3;&#x3c4;&#x3b7;&#x3bd; &#x395;&#x3bb;&#x3bb;&#x3ac;&#x3b4;&#x3b1; &#x3b5;&#x3af;&#x3bd;&#x3b1;&#x3b9;:"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="E4Btn1n1">
+              <Properties>
+                <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+                  <ComponentRef name="E4buttonGroup1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&#x388;&#x3bb;&#x3bb;&#x3b5;&#x3b9;&#x3c8;&#x3b7; &#x3c0;&#x3b1;&#x3c1;&#x3bf;&#x3c7;&#x3ce;&#x3bd; &#x3b1;&#x3c0;&#x3cc; &#x3c4;&#x3bf; &#x3ba;&#x3c1;&#x3ac;&#x3c4;&#x3bf;&#x3c2; "/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="E4Btn1n1ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="E4Btn1n2">
+              <Properties>
+                <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+                  <ComponentRef name="E4buttonGroup1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&#x388;&#x3bb;&#x3bb;&#x3b5;&#x3b9;&#x3c8;&#x3b7; &#x3c0;&#x3b1;&#x3b9;&#x3b4;&#x3af;&#x3b1;&#x3c4;&#x3c1;&#x3c9;&#x3bd;"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="E4Btn1n2ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="E4Btn1n3">
+              <Properties>
+                <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+                  <ComponentRef name="E4buttonGroup1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&#x391;&#x3b4;&#x3c5;&#x3bd;&#x3b1;&#x3bc;&#x3af;&#x3b1; &#x3c6;&#x3c1;&#x3bf;&#x3bd;&#x3c4;&#x3af;&#x3b4;&#x3b1;&#x3c2; &#x3c0;&#x3b1;&#x3b9;&#x3b4;&#x3b9;&#x3bf;&#x3cd; &#x3b1;&#x3c0;&#x3cc; &#x3c4;&#x3bf;&#x3c5;&#x3c2; &#x3b3;&#x3bf;&#x3bd;&#x3b5;&#x3af;&#x3c2;"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="E4Btn1n3ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="E4Btn1n4">
+              <Properties>
+                <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+                  <ComponentRef name="E4buttonGroup1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&#x38c;&#x3bb;&#x3b1; &#x3c4;&#x3b1; &#x3c0;&#x3b1;&#x3c1;&#x3b1;&#x3c0;&#x3ac;&#x3bd;&#x3c9;"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="E4Btn1n4ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel3">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="2) &#x397; &#x3c7;&#x3c1;&#x3b7;&#x3c3;&#x3b9;&#x3bc;&#x3cc;&#x3c4;&#x3b7;&#x3c4;&#x3b1; &#x3c4;&#x3b7;&#x3c2; &#x3ba;&#x3bf;&#x3b9;&#x3bd;&#x3c9;&#x3bd;&#x3b9;&#x3bf;&#x3bb;&#x3bf;&#x3b3;&#x3af;&#x3b1;&#x3c2; &#x3b5;&#x3af;&#x3bd;&#x3b1;&#x3b9;:"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="E4Btn2n1">
+              <Properties>
+                <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+                  <ComponentRef name="&#x395;4buttonGroup2"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&#x394;&#x3b9;&#x3b1;&#x3c6;&#x3c9;&#x3c4;&#x3b9;&#x3c3;&#x3bc;&#x3cc;&#x3c2; &#x3ba;&#x3bf;&#x3b9;&#x3bd;&#x3c9;&#x3bd;&#x3b9;&#x3ba;&#x3ce;&#x3bd; &#x3c6;&#x3b1;&#x3b9;&#x3bd;&#x3bf;&#x3bc;&#x3ad;&#x3bd;&#x3c9;&#x3bd;"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="E4Btn2n1ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="E4Btn2n2">
+              <Properties>
+                <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+                  <ComponentRef name="&#x395;4buttonGroup2"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&#x395;&#x3be;&#x3ac;&#x3bb;&#x3b5;&#x3b9;&#x3c8;&#x3b7; &#x3c4;&#x3b7;&#x3c2; &#x3bc;&#x3bf;&#x3b9;&#x3c1;&#x3bf;&#x3bb;&#x3b1;&#x3c4;&#x3c1;&#x3af;&#x3b1;&#x3c2;"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="E4Btn2n2ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="E4Btn2n3">
+              <Properties>
+                <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+                  <ComponentRef name="&#x395;4buttonGroup2"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&#x3a0;&#x3c1;&#x3b1;&#x3ba;&#x3c4;&#x3b9;&#x3ba;&#x3ad;&#x3c2; &#x3b5;&#x3c6;&#x3b1;&#x3c1;&#x3bc;&#x3bf;&#x3b3;&#x3ad;&#x3c2; &#x3c3;&#x3c4;&#x3b7; &#x3ba;&#x3b1;&#x3b8;&#x3b7;&#x3bc;&#x3b5;&#x3c1;&#x3b9;&#x3bd;&#x3ae; &#x3b6;&#x3c9;&#x3ae;"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="E4Btn2n3ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="E4Btn2n4">
+              <Properties>
+                <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+                  <ComponentRef name="&#x395;4buttonGroup2"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&#x38c;&#x3bb;&#x3b1; &#x3c4;&#x3b1; &#x3c0;&#x3b1;&#x3c1;&#x3b1;&#x3c0;&#x3ac;&#x3bd;&#x3c9;"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="E4Btn2n4ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel4">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Dialog" size="14" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&#x392;) &#x395;&#x3c1;&#x3c9;&#x3c4;&#x3ae;&#x3c3;&#x3b5;&#x3b9;&#x3c2; &#x3c3;&#x3c9;&#x3c3;&#x3c4;&#x3bf;&#x3cd;-&#x3bb;&#x3ac;&#x3b8;&#x3bf;&#x3c5;&#x3c2;:"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel5">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="1) &#x39a;&#x3bf;&#x3b9;&#x3bd;&#x3c9;&#x3bd;&#x3b9;&#x3bf;&#x3bb;&#x3bf;&#x3b3;&#x3af;&#x3b1; &#x3b5;&#x3af;&#x3bd;&#x3b1;&#x3b9; &#x3b7; &#x3b5;&#x3c0;&#x3b9;&#x3c3;&#x3c4;&#x3b7;&#x3bc;&#x3bf;&#x3bd;&#x3b9;&#x3ba;&#x3ae; &#x3bc;&#x3b5;&#x3bb;&#x3ad;&#x3c4;&#x3b7; &#x3c4;&#x3b7;&#x3c2; &#x3ba;&#x3bf;&#x3b9;&#x3bd;&#x3c9;&#x3bd;&#x3b9;&#x3ba;&#x3ae;&#x3c2; &#x3c3;&#x3c5;&#x3bc;&#x3c0;&#x3b5;&#x3c1;&#x3b9;&#x3c6;&#x3bf;&#x3c1;&#x3ac;&#x3c2; &#x3bc;&#x3b5;&#x3c4;&#x3b1;&#x3be;&#x3cd; 2 &#x3ae; &#x3c0;&#x3b5;&#x3c1;&#x3b9;&#x3c3;&#x3c3;&#x3bf;&#x3c4;&#x3ad;&#x3c1;&#x3c9;&#x3bd; &#x3b1;&#x3bd;&#x3b8;&#x3c1;&#x3ce;&#x3c0;&#x3c9;&#x3bd;. "/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="E4Sosto1">
+              <Properties>
+                <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+                  <ComponentRef name="&#x395;4buttonGroup3"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&#x3a3;&#x3c9;&#x3c3;&#x3c4;&#x3cc;"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="E4Sosto1ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="E4Lathos1">
+              <Properties>
+                <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+                  <ComponentRef name="&#x395;4buttonGroup3"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&#x39b;&#x3ac;&#x3b8;&#x3bf;&#x3c2;"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="E4Lathos1ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel6">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="2) &#x39a;&#x3bf;&#x3b9;&#x3bd;&#x3c9;&#x3bd;&#x3b9;&#x3ba;&#x3ae; &#x3b1;&#x3bd;&#x3b8;&#x3c1;&#x3c9;&#x3c0;&#x3bf;&#x3bb;&#x3bf;&#x3b3;&#x3af;&#x3b1; &#x3bc;&#x3b5;&#x3bb;&#x3b5;&#x3c4;&#x3ac; &#x3c4;&#x3b9;&#x3c2; &#x3c0;&#x3c1;&#x3bf;&#x3c3;&#x3c9;&#x3c0;&#x3b9;&#x3ba;&#x3ad;&#x3c2; &#x3c3;&#x3c7;&#x3ad;&#x3c3;&#x3b5;&#x3b9;&#x3c2; &#x3c4;&#x3c9;&#x3bd; &#x3b1;&#x3b3;&#x3c1;&#x3bf;&#x3c4;&#x3b9;&#x3ba;&#x3ce;&#x3bd; &#x3ba;&#x3bf;&#x3b9;&#x3bd;&#x3c9;&#x3bd;&#x3b9;&#x3ce;&#x3bd;"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="E4Sosto2">
+              <Properties>
+                <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+                  <ComponentRef name="&#x395;4buttonGroup4"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&#x3a3;&#x3c9;&#x3c3;&#x3c4;&#x3cc;"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="E4Sosto2ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="E4Lathos2">
+              <Properties>
+                <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+                  <ComponentRef name="&#x395;4buttonGroup4"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&#x39b;&#x3ac;&#x3b8;&#x3bf;&#x3c2;"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="E4Lathos2ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel7">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="3) &#x39a;&#x3bf;&#x3b9;&#x3bd;&#x3c9;&#x3bd;&#x3b9;&#x3bf;&#x3bb;&#x3bf;&#x3b3;&#x3af;&#x3b1; &#x3bf;&#x3c1;&#x3af;&#x3b6;&#x3b5;&#x3c4;&#x3b1;&#x3b9; &#x3b7; &#x3b1;&#x3ba;&#x3b1;&#x3b4;&#x3b7;&#x3bc;&#x3b1;&#x3ca;&#x3ba;&#x3ae; &#x3ba;&#x3b1;&#x3b9; &#x3b5;&#x3c6;&#x3b1;&#x3c1;&#x3bc;&#x3bf;&#x3c3;&#x3bc;&#x3ad;&#x3bd;&#x3b7; &#x3b5;&#x3c0;&#x3b9;&#x3c3;&#x3c4;&#x3ae;&#x3bc;&#x3b7; &#x3c0;&#x3bf;&#x3c5; &#x3b1;&#x3c3;&#x3c7;&#x3bf;&#x3bb;&#x3b5;&#x3af;&#x3c4;&#x3b1;&#x3b9; &#x3bc;&#x3b5; &#x3c4;&#x3b7;&#x3bd; &#x3bc;&#x3b5;&#x3bb;&#x3ad;&#x3c4;&#x3b7; &#x3c4;&#x3b7;&#x3c2; &#x3c3;&#x3ba;&#x3ad;&#x3c8;&#x3b7;&#x3c2; &#x3ba;&#x3b1;&#x3b9; &#x3c4;&#x3b7;&#x3c2; &#x3c3;&#x3c5;&#x3bc;&#x3c0;&#x3b5;&#x3c1;&#x3b9;&#x3c6;&#x3bf;&#x3c1;&#x3ac;&#x3c2;"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="E4Sosto3">
+              <Properties>
+                <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+                  <ComponentRef name="&#x395;4buttonGroup5"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&#x3a3;&#x3c9;&#x3c3;&#x3c4;&#x3cc;"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="E4Sosto3ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="E4Lathos3">
+              <Properties>
+                <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+                  <ComponentRef name="&#x395;4buttonGroup5"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&#x39b;&#x3ac;&#x3b8;&#x3bf;&#x3c2;"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="E4Lathos3ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="Submit4Btn">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Dialog" size="12" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Submit"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Submit4BtnActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
